@@ -1,6 +1,6 @@
 {
   "name": "smartcheck",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Make sure gulp and gulp-taypescript from npm are available. Then run the gulpfile in this directory.",
   "main": "index.js",
   "scripts": {
