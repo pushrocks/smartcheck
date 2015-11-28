@@ -18,10 +18,10 @@ class CheckStorage {
         this.checks.push(localCheck);
     }
     print() {
+        var localTable = beautylog.table.new("checks");
         for (var check in this.checks){
-            var localTable = beautylog.table.new("checks");
             localTable.push([this.checks[check].name,this.checks[check].result]);
-            localTable.print();
         }
+        localTable.print();
     }
 }
