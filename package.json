@@ -30,6 +30,6 @@
   },
   "devDependencies": {
     "gulp": "3.9.0",
-    "gulp-typescript": "2.10.0"
+    "gulp-typescript": "2.12.0"
   }
 }
