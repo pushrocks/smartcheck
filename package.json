@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/pushrocks/smartcheck",
   "dependencies": {
-    "beautylog": "^1.0.4",
+    "beautylog": "^3.1.4",
     "pushrocks": "^1.0.23"
   },
   "devDependencies": {
