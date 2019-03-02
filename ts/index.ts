@@ -1,10 +1,10 @@
-/// <reference path="typings/tsd.d.ts" />
-/// <reference path="./classes.ts" />
-var beautylog = require("beautylog")("os");
-var smartcheck:any = {};
+import * as plugins from './smartcheck.plugins';
 
-smartcheck.newStorage = function() {
-    return new CheckStorage;
-};
-
-module.exports = smartcheck;
+/**
+ * smartcheck
+ */
+export class Smartcheck {
+  checkServiceStatus() {
+    
+  }
+}

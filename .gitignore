@@ -1,10 +1,19 @@
+.nogit/
+
+# artifacts
+coverage/
+public/
+pages/
+
+# installs
 node_modules/
-.settings/
-.idea/
 
+# caches and builds
+.yarn/
+.cache/
+dist/
+dist_web/
+dist_serve/
+dist_ts_web/
 
-#npm devug
-npm-debug.log
-
-ts/*.js
-ts/*.js.map
+# custom

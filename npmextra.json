@@ -1,0 +1,17 @@
+{
+  "gitzone": {
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "pushrocks",
+      "gitrepo": "smartcheck",
+      "shortDescription": "easy checks for web and services",
+      "npmPackagename": "@pushrocks/smartcheck",
+      "license": "MIT",
+      "projectDomain": "push.rocks"
+    }
+  },
+  "npmci": {
+    "npmGlobalTools": [],
+    "npmAccessLevel": "public"
+  }
+}
